@@ -13,7 +13,13 @@
 * 🎯 Goal: **Secure a Software/ML Internship or Job**
 
 ---
-
+## 🚀 My Self
+-  Computer Science student focused on building real-world solutions using **Python, Java, and Web technologies**  
+-  Interested in **AI/ML, data analysis, and scalable backend systems**  
+-  Currently exploring **Google Cloud and application deployment**  
+-  Actively working on projects and improving **problem-solving skills (DSA)**  
+-  Looking for opportunities in **Software Development and Machine Learning**
+---
 ## ⚡ Tech Stack
 
 **Languages:**
