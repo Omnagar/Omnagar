@@ -156,8 +156,7 @@
 ---
 
 ## `$` GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Omnagar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-<img width="49%" src="https://streak-stats.demolab.com?user=Omnagar&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
+![](https://github-readme-stats.shion.dev/api?username=Omnagar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<img width="49%" src="https://streak-stats.demolab.com?user=Omnagar&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omnagar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
