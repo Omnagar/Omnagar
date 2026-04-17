@@ -13,6 +13,8 @@
 
 </div>
 
+
+
 ##  `$` About Me
 
 -  Computer Science student building **practical, real-world applications**
@@ -22,9 +24,7 @@
 -  Improving **DSA & problem-solving for technical interviews**
 -  Targeting **Software Development / ML Internship opportunities**
 
----
 
----
 
 ##  `$` What I’m Doing
 
@@ -34,7 +34,7 @@
 - Practicing **DSA regularly (LeetCode / coding platforms)**
 - Exploring **open-source contributions (GSoC preparation)**
 
----
+
 
 ## `$` Tech Stack
 
@@ -142,7 +142,6 @@
 
 </div>
 
----
 
 ##  `$` Achievements & Progress
 
@@ -153,7 +152,6 @@
 -  Consistently improving **problem-solving skills (DSA practice)**
 -  Actively preparing for **Google Summer of Code (GSoC)**
 
----
 
 ## `$` GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Omnagar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
@@ -167,4 +165,3 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omnagar&bg_color=0d1117&color=22d3ee&line=ffff00&point=e2ffff&area_color=001a1a&area=true&hide_border=true&custom_title=Contribution+Activity&radius=4"/>
 
 </div>
-
